@@ -15,6 +15,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "resolutions": {
+    "react-scripts": "5.0.1"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
